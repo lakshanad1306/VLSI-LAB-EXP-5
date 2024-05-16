@@ -10,8 +10,7 @@ PROCEDURE:
 
  1.Open Vivado: Launch Xilinx Vivado software on your computer.
 
- 2.Create a New Project: Click on "Create Project" from the welcome page or navigate through "File"
- > "Project" > "New".
+ 2.Create a New Project: Click on "Create Project" from the welcome page or navigate through "File"> "Project" > "New".
  
  3.Project Settings: Follow the prompts to set up your project. Specify the project name, location,
  and select RTL project type.
